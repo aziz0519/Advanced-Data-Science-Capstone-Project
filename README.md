@@ -1,7 +1,5 @@
 # Advanced-Data-Science-Capstone-Project
-
-##### This project is part of the _Coursera Advanced Data Science with IBM Specialization_
-
+This project is part of the Coursera Advanced Data Science with IBM Specialization
 The following project aims to predict the AirBnB property prices in Singapore based on the data on 27 Feb 2020. The presentation can be access via this [link](https://youtu.be/7kGbxYMpL9U) 
 
 #### The following predictor models were used in this project 
