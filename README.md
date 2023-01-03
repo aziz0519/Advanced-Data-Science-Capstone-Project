@@ -4,7 +4,7 @@
 
 The following project aim to predict the AirBnB property prices in Singapore based on the data on 27 Feb 2020. The presentation can be access via this [link](https://youtu.be/7kGbxYMpL9U) 
 
-#### The following regression models were used in this project 
+#### The following predictor models were used in this project 
 * Support Vector Regression
 * Random Forest Regressor
 * XG Boost 
